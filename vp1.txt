@@ -1,0 +1,6 @@
+With no arguments, shows a list of existing remotes. 
+Several subcommands are available to perform operations on the 
+Adds a remote named <name> for the repository at 
+The command git fetch <name> can then be used to create and 
+update remote-tracking branches <name>/<branch>.
+
